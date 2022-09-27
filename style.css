@@ -159,6 +159,7 @@ nav {
 }
 .menü_liste .fa-github:hover {
   transform: scale(1.3);
+  
 }
 .mobile_menü {
   display: none;
